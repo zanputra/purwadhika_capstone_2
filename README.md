@@ -1,5 +1,7 @@
 # NYC Taxi Profitability and Activity Analysis
 
+!(Marvelous-Mrs-Maisel-Filming-Locations-Horn-and-Hardart-Set-Amazon-Studios-Crown-Heights-Brooklyn-NYC14.jpg)
+
 ## Overview
 
 New York City Taxi and Limousine Commission (TLC) dataset consists of detailed transactions of TLC from 2 different payment gateway providers.
