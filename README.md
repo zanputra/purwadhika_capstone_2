@@ -1,6 +1,6 @@
 # NYC Taxi Profitability and Activity Analysis
 
-!(Marvelous-Mrs-Maisel-Filming-Locations-Horn-and-Hardart-Set-Amazon-Studios-Crown-Heights-Brooklyn-NYC14.jpg)
+![Marvelous-Mrs-Maisel-Filming-Locations-Horn-and-Hardart-Set-Amazon-Studios-Crown-Heights-Brooklyn-NYC14](/Marvelous-Mrs-Maisel-Filming-Locations-Horn-and-Hardart-Set-Amazon-Studios-Crown-Heights-Brooklyn-NYC14.jpg)
 
 ## Overview
 
