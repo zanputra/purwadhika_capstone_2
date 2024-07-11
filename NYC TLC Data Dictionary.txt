@@ -1,0 +1,19 @@
+VendorID: ID of vendors
+Lpep Pickup Datetime: Datetime where a passenger is picked up
+Lpep Dropoff Datetime: Datetime where a passenger is dropped off
+Store and Forward Flag: To Flag whether the trip record was held in the vehicle memory before sending it to the vendor. (Yes or No)
+RateCodeID: Final Rate Code, in effect at the end of the trip (1=std; 2=JFK; 3=Newark; 4=Nassau|Westchester; 5=Nego Fare; 6=Group Fare)
+Pickup LocationID: ID of location where a passenger is picked up
+Dropoff LocationID : ID of location where a passenger is dropped off
+Passenger Count: Number of passenger in a trip
+Trip Distance: Distance of a trip
+Fare Amount: Amount of fare
+Extra: Surcharges 0.50$ rush hour or 1$ overnight charges
+MTA Tax: Automatically truggered based on the metered rate in use.
+Tip Amount: Amount of tip
+Tolls Amount: Amount of tolls paid in a trip
+Improvement Surcharge: $0.30 improvement surcharge assessed on hailed trips at the flag drop. The improvement surcharge began being levied in 2015.
+Total Amount: Amount charged to passengers. Cash Tips excluded
+Payment Type: type of payment (1= Credit Card; 2=cash; 3=No Charge; 4=Dispute; 5 = Unknown; 6=Voided Trip)
+Trip Type: type of taxi trip (1=Street-hail; 2=dispatch)
+Congestion surcharge: Amount added to the payment due to congestion
